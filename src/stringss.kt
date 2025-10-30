@@ -11,5 +11,12 @@ fun main(args: Array<String>) {
     tvShows = "none"
     println("I have $tvShows TV shows to watch.")
 
+    // desafio: 1 fazer o coelho
+    var linha = " (\\(\\"
+    var linha2 = " (-.-)"
+    var linha3 = " 0_(\")(\")"
+    println(linha)
+    println(linha2)
+    println(linha3)
 
 }
