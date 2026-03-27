@@ -1,4 +1,4 @@
-package Lesson2VariablesAndStrings
+package sintaxe
 
 /*
 *   aula sobre strings e usando \\ para conseguir colocar "" dentro da string

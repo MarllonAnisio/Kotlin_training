@@ -1,4 +1,4 @@
-package Lesson2VariablesAndStrings
+package sintaxe
 
 // aprendendo sobre chars
 
