@@ -38,7 +38,7 @@ fun main() {
     println(nome!!.length)
 
     /* esse que usei bastante é uma rota segura contra nullable, e o safe call, nome?.length,
-    eu falo abertamente que é pra eletentar apenas se não for nulo
+    eu falo abertamente que é pra ele tentar apenas se não for nulo
     */
 
 }
